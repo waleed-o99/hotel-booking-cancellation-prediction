@@ -76,10 +76,10 @@ The dataset contains over 119,000 hotel bookings, with information such as:
 | Model         | Accuracy | F1 Score (Class 1) | ROC AUC |
 |---------------|----------|--------------------|---------|
 
-| Model | Accuracy|    Precision   |    Recall      |    F1-Score      | ROC AUC|
+|------------|------|--Precision---|    Recall      |    F1-Score      | ROC AUC|
 |-------|--------|----------|--------------------|---------|---|
 
-|       |         |Class 0| Class 1 |Class 0 |Class1 | Class 0 |Class 1 |        |
+|Model  |     Accuracy    |Class 0| Class 1 |Class 0 |Class1 | Class 0 |Class 1 |        |
 |-------|---------|-------|---------|--------|-------|---------|--------|--------|
 |Decision Tree| 75.59| 77.7| 72.89| 78.66| 71.76| 78.17| 72.32| 83|
 |SVM| 70.44| 73.76| 66.43| 72.67| 67.66| 73.21| 67.04| -|

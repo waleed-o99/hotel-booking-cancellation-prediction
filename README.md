@@ -47,6 +47,7 @@ The dataset contains over 119,000 hotel bookings, with information such as:
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 - XGBoost
+- Lightgbm
 - Artificial Neural Network (ANN)
 
 ---
@@ -64,8 +65,8 @@ The dataset contains over 119,000 hotel bookings, with information such as:
 
 ## 📈 Model Performance Summary
                              
-|-----------------|----------|----Precision-----|------Recall------|-----F1-Score-----| ROC AUC|
-|-----------------|----------|------------------|------------------|------------------|--------|
+|-----------------|----------|----Precision-----|------Recall-------|-----F1-Score-----| ROC AUC|
+|-----------------|----------|------------------|-------------------|------------------|--------|
 
 |Model        | Accuracy | Class 0 | Class 1 | Class 0 | Class 1 | Class 0 | Class 1 | ROC AUC |
 |-------------|----------|---------|---------|---------|---------|---------|---------|---------|

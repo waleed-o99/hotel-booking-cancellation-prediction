@@ -73,10 +73,13 @@ The dataset contains over 119,000 hotel bookings, with information such as:
 | KNN           | 78.0%    | 0.49               | 0.77    |
 | ANN           | 78.9%    | 0.53               | 0.80    |
 
-
-| Model | Accuracy| Precision       | Recall         | F1-Score        | ROC AUC|
-|        |        |Class 0| Class 1 |Class 0 |Class1 |Class 0 |Class 1 |
+| Model         | Accuracy | F1 Score (Class 1) | ROC AUC |
 |---------------|----------|--------------------|---------|
+
+| Model | Accuracy|    Precision Class 1   |    Recall Class 1     |    F1-Score      | ROC AUC|
+
+|       |         |Class 0| Class 1 |Class 0 |Class1 | Class 0 |Class 1 |        |
+|-------|---------|-------|---------|--------|-------|---------|--------|--------|
 |Decision Tree| 75.59| 77.7| 72.89| 78.66| 71.76| 78.17| 72.32| 83|
 |SVM| 70.44| 73.76| 66.43| 72.67| 67.66| 73.21| 67.04| -|
 |Random Forest| 81.35| 82.08| 80.35| 84.99| 76.79| 83.51| 78.53| 90|

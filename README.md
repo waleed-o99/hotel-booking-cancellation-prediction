@@ -13,7 +13,7 @@ This project aims to predict whether a hotel booking will be canceled using a re
 - [Model Performance](#model-performance)
 - [How to Run](#how-to-run)
 - [Results](#results)
-- [Future Work](#future-work)
+- [Real-time Prediction](#Real-time-Prediction)
 - [References](#references)
 
 ---
@@ -115,11 +115,9 @@ outperformed other algorithms, making them preferable for hotel booking cancella
 prediction.
 ---
 
-## 🔮 Future Work
+## Real-time Prediction
 
-- Add real-time prediction dashboard
-- Test with additional features (e.g., reviews, time-series data)
-- Experiment with LSTM or Transformer for temporal features
+- [Streamlit App]{https://github.com/waleed-o99/Hotel-Booking-Demand-Cancelation-Streamlit-App/tree/main)
 
 ---
 

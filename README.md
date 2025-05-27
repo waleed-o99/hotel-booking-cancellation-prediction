@@ -7,14 +7,14 @@ This project aims to predict whether a hotel booking will be canceled using a re
 
 ## 📂 Table of Contents
 
-- [About the Dataset](#about-the-dataset)
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [Model Performance](#model-performance)
-- [How to Run](#how-to-run)
-- [Results](#results)
+- [About the Dataset](#📊-About-the-Dataset)
+- [Project Overview](#🚀-Project-Overview)
+- [Technologies Used](#🛠-Technologies-Used)
+- [Model Performance](#📈-Model-Performance-Summary)
+- [How to Run](#▶️-How-to-Run)
+- [Results](#📊-Results)
 - [Real-time Prediction](#Real-time-Prediction)
-- [References](#references)
+- [References](#📚-References)
 
 ---
 

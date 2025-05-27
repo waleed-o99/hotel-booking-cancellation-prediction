@@ -7,7 +7,7 @@ This project aims to predict whether a hotel booking will be canceled using a re
 
 ## 📂 Table of Contents
 
-- [About the Dataset](#About-the-Dataset)
+- [About the Dataset](#-About-the-Dataset)
 - [Project Overview](#🚀-Project-Overview)
 - [Technologies Used](#🛠-Technologies-Used)
 - [Model Performance](#📈-Model-Performance-Summary)
@@ -18,7 +18,7 @@ This project aims to predict whether a hotel booking will be canceled using a re
 
 ---
 
-## 📊About the Dataset
+## 📊 About the Dataset
 
 The dataset contains over 119,000 hotel bookings, with information such as:
 

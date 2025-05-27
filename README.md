@@ -79,8 +79,6 @@ The dataset contains over 119,000 hotel bookings, with information such as:
 |ANN          | 74.32%   |  74.78% |  73.63% |  81.17% |  65.76% |  77.84% |  69.47% |   89%   |
 
 
-> Note: Class 1 (cancellations) is harder to predict due to class imbalance.
-
 ---
 
 ## ▶️ How to Run
